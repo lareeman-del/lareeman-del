@@ -25,7 +25,7 @@
 ### 🛠 Стек технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,ts,git,vscode,linux&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,python,ts,git,vscode,linux&theme=dark" alt="Tech stack" />
 </p>
 
 ---
